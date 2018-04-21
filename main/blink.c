@@ -15,7 +15,7 @@
 #include "nvs_flash.h"
 #include "esp_wifi.h"
 
-#include "wifi_ap_sta.h"
+#include "../components/ap-sta/include/wifi_ap_sta.h"
 
 
 void app_main()
